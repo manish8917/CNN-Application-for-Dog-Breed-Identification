@@ -35,3 +35,5 @@ Step 5: Write your Algorithm
 
 Step 6: Test Your Algorithm
 
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
